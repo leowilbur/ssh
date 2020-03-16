@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>589738819243-io51kqakms723fiaa90anibljur7oali.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.589738819243-io51kqakms723fiaa90anibljur7oali</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHFWTThv02xfYdfJcdfQ44xQg6HjU4wlg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>589738819243</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>au.com.currencyfinder</string>
+	<key>PROJECT_ID</key>
+	<string>currencyfinder-80069</string>
+	<key>STORAGE_BUCKET</key>
+	<string>currencyfinder-80069.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:589738819243:ios:402dea8ca02fc9d2a381ee</string>
+	<key>DATABASE_URL</key>
+	<string>https://currencyfinder-80069.firebaseio.com</string>
+</dict>
+</plist>

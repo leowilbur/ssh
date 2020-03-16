@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589738819243",
+    "firebase_url": "https://currencyfinder-80069.firebaseio.com",
+    "project_id": "currencyfinder-80069",
+    "storage_bucket": "currencyfinder-80069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589738819243:android:f1fc40506a43dc68a381ee",
+        "android_client_info": {
+          "package_name": "au.com.currencyfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589738819243-1j8gbivgsggj9eheb3k98ob441674nbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3VDHmHV1z-u14IOSZ5d5kttvzFe0YO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589738819243-1j8gbivgsggj9eheb3k98ob441674nbm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589738819243-io51kqakms723fiaa90anibljur7oali.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.com.currencyfinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
